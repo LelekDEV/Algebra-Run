@@ -93,6 +93,6 @@ Special thanks to the creator of Geometry Dash (RobTop) for inspiring this proje
 ### Contact
 For questions or suggestions, feel free to contact me:
 
-email - some.email@gmail.com
+- Email - some.email@gmail.com
 
 Happy gaming! 🚀
